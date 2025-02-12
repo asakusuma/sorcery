@@ -41,6 +41,7 @@
 	"files": [
 		"src/",
 		"bin/",
+		"types/",
 		"README.md"
 	],
 	"packageManager": "pnpm@9.3.0"
